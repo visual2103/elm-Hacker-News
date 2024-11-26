@@ -35,16 +35,23 @@ This project demonstrates:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+   ```
 2.Navigate to the Project Directory:  
+  ```bash
   cd Elm-Project
+  ```
 3.Install Dependencies: npm install :
-
+  ```bash
   npm install
+  ```
 4.Start the Development Server:
-
-  npm start 
+  ```bash
+  npm start
+  ```
 5.View the Application:
+  ```bash
   Open http://localhost:8000 in your browser.
+  ```
 
 ## Project Structure
 
