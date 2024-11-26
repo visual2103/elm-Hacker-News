@@ -50,7 +50,7 @@ This project demonstrates:
   ```
 5. View the Application:
   ```bash
-  Open http://localhost:8000 in your browser.
+  Open <http://localhost:8000> in your browser.
   ```
 
 ## Project Structure
