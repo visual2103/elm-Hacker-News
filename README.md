@@ -35,3 +35,11 @@ This project demonstrates:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+2.Navigate to the Project Directory:
+  ```bash
+  cd Elm-Project
+3.Install Dependencies:
+  ```bash 
+  npm install
+
+
