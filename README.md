@@ -33,9 +33,9 @@ This project demonstrates:
 ## How to Run
 
 1. Clone the repository :
-   ```bash
+  ```bash
    git clone <repository-url>
-   ```
+  ```
 2. Navigate to the Project Directory:  
   ```bash
     cd Elm-Project
