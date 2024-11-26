@@ -32,7 +32,7 @@ This project demonstrates:
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repository :
    ```bash
    git clone <repository-url>
    ```
